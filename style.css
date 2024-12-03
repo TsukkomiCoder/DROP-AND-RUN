@@ -45,7 +45,6 @@ div {
 }
 
 div1 {
-    display: flex;
     color: #04ff00;
     font-size: 18px;
     font-family: monospace, sans serif;
