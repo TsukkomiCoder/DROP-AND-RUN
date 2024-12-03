@@ -44,6 +44,10 @@ div {
 
 }
 
+div1 {
+    justify-content: center;
+}
+
 a {
     font-family: monospace;
     color: #04ff00;
