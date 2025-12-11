@@ -27,7 +27,7 @@ prevButton.addEventListener("click", prevPage)
 prevButton.addEventListener("click", updatePage)
 
 startButton.addEventListener("click", function(){
-    currentPage = 0;
+    currentPage = 1;
 })
 startButton.addEventListener("click", updatePage)
 
