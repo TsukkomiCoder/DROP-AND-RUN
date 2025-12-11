@@ -2,40 +2,40 @@ body {
     background-color: #0e1919;
 }
 
-h1 {
+h1, h2, h3, h4, p {
     text-align: center;
     color:#04ff00;
-    font-size: 40px;
     font-family: monospace, sans serif;
+}
+
+h1 {
+    font-size: 40px;
 }
 
 h2 {
-    text-align: center;
-    color: #04ff00;
     font-size: 26px;
-    font-family: monospace, sans serif;
 }
 
 h3 {
-    text-align: center;
-    color: #04ff00;
     font-size: 17px;
-    font-family: monospace, sans serif;
 }
 
 h4 {
-    text-align: center;
-    color:#04ff00;
     font-size: 20px;
-    font-family: monospace, sans serif;
 }
 
 button {
     background-color: #04ff00;
+    color: #0e1919;
     height: 50px;
     width: 100%;
     font-family: monospace;
     font-size: 17px;
+}
+
+button:hover {
+    background-color: #0e1919;
+    color: #04ff00;
 }
 
 div {
@@ -44,7 +44,7 @@ div {
 
 }
 
-div1 {
+#comic-container {
     justify-content: center;
 }
 
