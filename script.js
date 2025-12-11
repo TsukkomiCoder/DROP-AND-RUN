@@ -6,7 +6,7 @@ const PROLOGUE = 3
 const CHAPT1 = 8
 const CHAPT2 = 20
 const CHAPT3 = 39
-const CHAPT4 = {};
+const CHAPT4 = TOTAL_PAGES;
 
 window.onload = updatePage;
 
